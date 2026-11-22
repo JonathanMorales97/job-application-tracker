@@ -11,6 +11,3 @@
     1) Siempre guardar el archivo con Ctrl + S
     2) Siempre verificar donde va el return de una funcion
     3) Siempre usar comillas invertidas para impresión en consola
-
-- **Duda pendiente:**
-    En esta sesión no tuve mas dudas.
