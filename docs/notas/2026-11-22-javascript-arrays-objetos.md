@@ -1,4 +1,4 @@
-# 2026-11-22 · JavaScript básico
+# 2026-11-22 · JavaScript Arrays y Objetos
 
 - **Qué hice:**
     Se practicó el uso de filter, map, find y push en un const, además de la clave : valor de un objeto y la función lambda () =>

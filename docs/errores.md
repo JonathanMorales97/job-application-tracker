@@ -26,3 +26,17 @@
     Si algo puede ser nulo o undefinido colocar ?
     la negacion estaba mal puesta en el filter
     El distinto de se aplica con !==
+
+
+## PRACTICA 23/11/26
+- **Qué veía:**
+    El type en el package.json estaba duplicado, Promise {pending}, el error ENOENT
+
+- **Causa:**
+    El npm -y me lo creo automaticamente, no se coloco el await, el error esperado de la práctica
+    
+- **Solución:**
+    Borrar el ultimo para que pueda leer el type que yo cree
+    siempre colocar el await en una funcion que va tardar en tener respuesta
+    ENOENT signifca que no existe el archivo o carpeta, muy comun al trabajar con async y await
+    

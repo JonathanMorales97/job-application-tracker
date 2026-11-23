@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "empresa": "Rockstar",
+    "puesto": "Programador Junior",
+    "estado": "enviada",
+    "dias": 8
+  },
+  {
+    "id": 2,
+    "empresa": "Nintendo",
+    "puesto": "Diseñador",
+    "estado": "rechazada",
+    "dias": 15
+  },
+  {
+    "id": 3,
+    "empresa": "Riot",
+    "puesto": "Niveles",
+    "estado": "entrevista",
+    "dias": 5
+  }
+]
